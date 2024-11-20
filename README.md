@@ -1,5 +1,11 @@
 # Project 1: American Option Pricing
 
+Related Files
+
+- [Project 1 Code Vectorized](https://github.com/Xinyi-Cynthia-Shen/MMF1928-Pricing-Theory/blob/main/Project%201%20Code%20Vectorized.ipynb)
+- [Project 1 Code](https://github.com/Xinyi-Cynthia-Shen/MMF1928-Pricing-Theory/blob/main/Project%201%20Code.ipynb)
+- [Project 1 Report](https://github.com/Xinyi-Cynthia-Shen/MMF1928-Pricing-Theory/blob/main/Project%201%20Report.pdf)
+
 ## Overview
 
 This project explores the pricing of American put options using a variation of the **Cox-Ross-Rubinstein (CRR)** model. The study derives branching probabilities under the **risk-neutral measure**, evaluates the exercise boundary of the American put option, and simulates stock price paths to analyze the option’s performance. Additionally, the project investigates hedging strategies, profit and loss (P&L) distributions, and stopping time behavior under varying market conditions.
